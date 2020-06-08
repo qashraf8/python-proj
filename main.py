@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
 def main(msg):
-//just another comment via nano
+    
+    
+    //just another comment via nano
 
     print(msg)
 
